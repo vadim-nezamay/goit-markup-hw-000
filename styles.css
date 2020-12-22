@@ -1,0 +1,11 @@
+body{background-color:#E5E5E5;}
+ul{list-style: none;}
+.logo-start{color: #2196F3}
+
+.site-nav .link {color: #212121;}
+.site-nav .link:hover,
+.site-nav .link:focus a{color:#2196F3;}
+
+.hover {background: #2F303A;}
+.hiro-title{color: #FFFFFF;}
+.button{background: #2196F3}
