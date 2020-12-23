@@ -1,3 +1,4 @@
+:root
 body{background-color:#E5E5E5;}
 ul{list-style: none;}
 .logo-start{color: #2196F3}
@@ -8,4 +9,5 @@ ul{list-style: none;}
 
 .hover {background: #2F303A;}
 .hiro-title{color: #FFFFFF;}
-.button{background: #2196F3}
+h2,h3{color: #212121;}
+p{color: #757575;}
