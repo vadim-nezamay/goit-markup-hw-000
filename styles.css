@@ -1,19 +1,47 @@
-:root
-body{background-color:#E5E5E5;}
-ul{list-style: none;}
-.logo-start{color: #2196F3}
-.logo{color: #212121}
-.my-logo{color: #FFFFFF;}
+body{
+background-color: #E5E5E5;}
+.logo-start{color: #2196F3;
+    width: 145px;
+    height: 31px;
+    left: 215px;
+    top: 24px;
+    
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 1.4;}
+.logo{ color: #212121;   width: 145px;
+    height: 31px;
+    left: 215px;
+    top: 24px;
+    
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 1.4;}
 
-.site-nav .link {color: #212121;}
-.site-nav .link:hover,
-.site-nav .link:focus a{color:#2196F3;}
+.logo-my{color: #FFFFFF;
+    width: 145px;
+    height: 31px;
+    left: 215px;
+    top: 24px;
+    
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 1.4;}
 
-.hover {background: #2F303A;}
+ .link {color: #212121;}   
+.link:hover{color: #2196F3;}
+.text{background: #2F303A;}
+     
+.subtitle {background: #F5F4FA;}
 .hiro-title{color: #FFFFFF;}
-h2,h3{color: #212121;}
-p{color: #757575;}
 
-.mail{color: #757575;}
-.mobile{color: #757575;}
-.address{color: #FFFFFF;}
+.items:hover{color: #2196F3;}
+.items{color: #757575;}
+p{color: #757575;}
+.mobile, .mail{color: rgba(255, 255, 255, 0.6);}
