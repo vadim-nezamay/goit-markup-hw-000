@@ -2,6 +2,8 @@
 body{background-color:#E5E5E5;}
 ul{list-style: none;}
 .logo-start{color: #2196F3}
+.logo{color: #212121}
+.my-logo{color: #FFFFFF;}
 
 .site-nav .link {color: #212121;}
 .site-nav .link:hover,
@@ -12,6 +14,6 @@ ul{list-style: none;}
 h2,h3{color: #212121;}
 p{color: #757575;}
 
-.mailto{color: #757575;}
-.phone{color: #757575;}
+.mail{color: #757575;}
+.mobile{color: #757575;}
 .address{color: #FFFFFF;}
