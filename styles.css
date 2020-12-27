@@ -15,8 +15,8 @@ line-height: 31px;}
     top: 24px;
     
     font-family: Raleway;
-    font-style: normal;
-    font-weight: bold;
+    font-style:400;
+    font-weight: 700;
     font-size: 26px;
     line-height: 1.4;}
 .logo{
@@ -27,8 +27,8 @@ line-height: 31px;}
     top: 24px;
     
     font-family: Raleway;
-    font-style: normal;
-    font-weight: bold;
+    font-style: 400;
+    font-weight: 700;
     font-size: 26px;
     line-height: 1.4;}
 
@@ -42,8 +42,8 @@ line-height: 31px;}
     top: 24px;
     
     font-family: Raleway;
-    font-style: normal;
-    font-weight: bold;
+    font-style: 400;
+    font-weight: 700;
     font-size: 26px;
     line-height: 1.4;}
     /*список навигации link*/
@@ -143,26 +143,26 @@ line-height: 1.7}
     /* заголовки проектов */
     h3{
         font-style: 400;
-        font-weight: bold;
+        font-weight: 700;
         font-size: 18px;
         line-height: 2;
         color: #212121;}
     .project{
-        font-style: normal;
-        font-weight: normal;
+        font-style: 400;
+        font-weight: 400;
         font-size: 16px;
         line-height: 1.9;
 
         color: #757575;}
 
  
-.text{background: #2F303A;}
-.background{background: #F5F4FA;}
- ul{list-style: none;}
- address{
-    font-style: normal;
-    font-weight: normal;
-    font-size: 14px;
-    line-height: 1.7;
+        .text{background: #2F303A;}
+        .background{background: #F5F4FA;}
+        ul{list-style: none;}
+         address{
+        font-style: 400;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 1.7;
   
-    color: #FFFFFF}
+        color: #FFFFFF}
