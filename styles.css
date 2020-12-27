@@ -1,5 +1,5 @@
 body{
-background-color: #E5E5E5;
+background color: #E5E5E5;
 font-family: Roboto, sans-serif;}
 /*лого шапка logo*/
 .logo-start .logo :{
@@ -72,7 +72,7 @@ line-height: 31px;}
     h2{
         color: #212121;
         font-style: normal;
-        font-weight: bold;
+        font-weight: 700;
         font-size: 14px;
         line-height: 1.14;}
 
@@ -85,7 +85,7 @@ line-height: 31px;}
 /* Чем мы занимаемся, Наша команда */
     .box{
     color: #212121;
-    font-weight: bold;
+    font-weight: 700;
     font-size: 36px;
     line-height: 1.2;
     text-align: center;}
@@ -140,7 +140,7 @@ line-height: 1.7}
     line-height: 1.6;
     color: #FFFFFF;}
 
-    /* заголовки проэктов */
+    /* заголовки проектов */
     h3{
         font-style: 400;
         font-weight: bold;
@@ -157,12 +157,12 @@ line-height: 1.7}
 
  
 .text{background: #2F303A;}
-     
-.subtitle {background: #F5F4FA;}
-.hiro-title{color: #FFFFFF;}
-
-
-
-ul{list-style: none;}
-
-address{color: #FFFFFF;}
+.background{background: #F5F4FA;}
+ ul{list-style: none;}
+ address{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 1.7;
+  
+    color: #FFFFFF}
