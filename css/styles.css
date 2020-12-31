@@ -165,9 +165,7 @@ body{
                 font-style: normal;
                 font-weight: normal;
                 font-size: 14px;
-                line-height: 24px;
-                /* or 171% */
+                line-height: 1.7;
                 
-                letter-spacing: 0.03em;
                 
                 color: #FFFFFF;}
