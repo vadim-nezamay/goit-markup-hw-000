@@ -1,8 +1,8 @@
 body{
-background color: #E5E5E5;
+background : #E5E5E5;
 font-family: Roboto, sans-serif;}
 /*лого шапка logo*/
-.logo-start .logo :{
+.logo-start .logo {
 font-style: 400;
 font-weight: 700;
 font-size: 1.2;
