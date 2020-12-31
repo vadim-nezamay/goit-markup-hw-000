@@ -69,6 +69,14 @@ body{
         font-size: 44px;
         line-height: 1.4;
         text-align: center;}
+        .button-my{
+            
+            font-style: 400;
+            font-weight: 700;
+            font-size: 16px;
+            line-height: 1.9;
+            
+            color: #FFFFFF;}
         /* Внимание к деталям,Пунктуальность,Планирование,Современные технологии*/
         h2{
             color: #212121;
