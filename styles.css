@@ -165,16 +165,16 @@ body{
             color: #757575;}
     
      
-            .text{background: #2F303A;}
-            .background{background: #F5F4FA;}
-            ul{list-style: none;}
-             address{
+            
+                address{
                 font-family: Roboto;
                 font-style: normal;
                 font-weight: normal;
                 font-size: 14px;
                 line-height: 1.7;
-                
-                
-                color: #FFFFFF;}
+               color: #FFFFFF;}
+               
                 a{text-decoration: none;}
+                .text{background: #2F303A;}
+                .background{background: #F5F4FA;}
+                ul{list-style: none;}
